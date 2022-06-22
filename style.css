@@ -1,0 +1,40 @@
+body{
+    background-color: #F3F1FF;
+}
+.navbar img {
+width: 40px;
+}
+.top-player img{
+width: 56px;
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: white;
+}
+.top-blog img{
+    width: 224px;
+}
+.latest-course{
+    background-color: white;
+}
+.card{
+    border: none;
+}
+.star img{
+    width: 13px;
+}
+.clock img{
+    width: 17px;
+}
+.clock-bg{
+    height: 25px;
+    background-color: #f7bbae;
+    border-radius: 13px;
+    
+
+}
+.clock-bg p{
+    color: #ED6B4F;
+}
