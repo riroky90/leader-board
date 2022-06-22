@@ -9,6 +9,13 @@ width: 56px;
 }
 main{
     max-width: 870px;
+    min-width: 200px;
+}
+.latest-course{
+    min-width: 200px;
+}
+header{
+    min-width: 200px;
 }
 
 
